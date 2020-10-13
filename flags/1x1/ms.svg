@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="flag-icon-css-ms" viewBox="0 0 512 512">
   <path id="rect950" fill="#012169" stroke-width=".6" d="M.2 0h512v512H.2z" opacity="1" stop-opacity="1"/>
-  <path id="path962" fill="#fff" stroke-width=".8" d="M281.6 127H487l-.3 146.3c1.7 58.7-35 95.2-102.3 111.7-47.9-12-103.1-36.5-103.2-110l.3-148z" opacity="1" stop-opacity="1"/>
+  <path id="path962" fill="#F0F0F0" stroke-width=".8" d="M281.6 127H487l-.3 146.3c1.7 58.7-35 95.2-102.3 111.7-47.9-12-103.1-36.5-103.2-110l.3-148z" opacity="1" stop-opacity="1"/>
   <path id="path964" fill="#00a2bd" stroke="#000" stroke-width="1.8" d="M286.1 131.4h196.4l-.2 140.2c1.6 56.3-33.4 91.2-97.8 107-45.8-11.4-98.6-35-98.6-105.4l.2-141.8z" opacity="1" stop-opacity="1"/>
   <path id="path966" fill="#a53d08" stroke-width=".8" d="M481 288.2c-7.2 53.7-48.6 77.2-96.6 89.7-42.4-11.4-88-29.6-97-89.5l193.6-.2z" opacity="1" stop-opacity="1"/>
   <path id="path968" fill="#000" stroke-width=".8" d="M376.7 157.5l-.3-17.6 14 .1.1 17.5h38.2l.1 13.7-38.3.2-.3 161.4-13.6.1-.2-161.7-38 .2v-14z" opacity="1" stop-opacity="1"/>
@@ -63,8 +63,8 @@
   <path id="path1090" fill="#000" stroke="none" stroke-width=".3" d="M397.2 168.7c.8 1 1.7 1 1.8 1.7l.4 1h-.6l-1.4-.1c-.4 0-.9-.5-.6-.6.3 0 .3-.1.2-.3l.3-.6c.2-.1 0 0 0-.4-.2-.3-.3-1-.1-.7z" opacity="1" stop-opacity="1"/>
   <path id="path1092" fill="#000" stroke="none" stroke-width=".3" d="M397.7 167.7a6 6 0 013.4 1.5c.7.8.1.6-.2.6-.4 0-1-.2-1.4-.6-.3-.4-1.4-1-2-1.1-.2-.1-.5-.5.2-.4z" opacity="1" stop-opacity="1"/>
   <path id="path2758" fill="#012169" stroke-width=".5" d="M.2 0h256v256H.2z" opacity="1" stop-opacity="1"/>
-  <path id="path2760" fill="#FFF" stroke-width=".5" d="M256.2 0v32l-95 96 95 93.5V256h-33.5l-95.5-94-93 94H.2v-34l93-93.5L.2 37V0h31l96 94 93-94z" opacity="1" stop-opacity="1"/>
+  <path id="path2760" fill="#F0F0F0" stroke-width=".5" d="M256.2 0v32l-95 96 95 93.5V256h-33.5l-95.5-94-93 94H.2v-34l93-93.5L.2 37V0h31l96 94 93-94z" opacity="1" stop-opacity="1"/>
   <path id="path2762" fill="#C8102E" stroke-width=".5" d="M92.2 162l5.5 17-76.5 77H.2v-1.5zm62-6l27 4 75 73.5V256zm102-156l-96 98-2-22 75-76zM.2.5L96.7 95l-29.5-4-67-66.5z" opacity="1" stop-opacity="1"/>
-  <path id="path2764" fill="#FFF" stroke-width=".5" d="M88.2 0v256h80V0zM.2 88v80h256V88z" opacity="1" stop-opacity="1"/>
+  <path id="path2764" fill="#F0F0F0" stroke-width=".5" d="M88.2 0v256h80V0zM.2 88v80h256V88z" opacity="1" stop-opacity="1"/>
   <path id="path2766" fill="#C8102E" stroke-width=".5" d="M.2 104v48h256v-48zm104-104v256h48V0z" opacity="1" stop-opacity="1"/>
 </svg>
